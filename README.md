@@ -20,5 +20,5 @@ pip install -v -e .
 
 运行模型
 ```python
-python tools/trian.py myconfig.py
+python tools/trian.py config/myconfig.py
 ```
