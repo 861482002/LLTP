@@ -4,6 +4,6 @@
 # @File : __init__.py.py
 # @Software : PyCharm
 
-from .transformer import *
+from .LLTP_test import *
 
 __all__ = ['transformer']
