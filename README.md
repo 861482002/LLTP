@@ -21,3 +21,8 @@ mim install 'mmdet>=3.0.0'
 
 mim install "mmdet3d"
 ```
+
+```python
+python tools/train.py myconfig.py
+```
+
