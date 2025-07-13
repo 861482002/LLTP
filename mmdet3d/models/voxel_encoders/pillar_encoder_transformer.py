@@ -15,7 +15,7 @@ from .utils import PFNLayer, get_paddings_indicator
 from ..transformer import *
 
 
-@VOXEL_ENCODERS.register_module()
+
 class PillarFeatureNet(nn.Module):
     """Pillar Feature Net.
 
